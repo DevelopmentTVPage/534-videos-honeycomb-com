@@ -1,0 +1,15 @@
+{
+    "title": "Honeycomb",
+    "baseURL": "https:\/\/videos.honeycomb.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759034",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "honeycomb.com"
+    }
+}
